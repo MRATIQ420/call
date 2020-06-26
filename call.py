@@ -12,7 +12,7 @@ print ("      Coded: \033[1;96mFahmiApz\033[1;97m")
 print ("\033[1;97m*     Github:\033[1;92m github.com/BangDanz\033[1;97m      *")
 print()
 print ("\033[90m>\033[1;97m CONTOH: \033[1;92m+62857×××××××××")
-no = input("\033[90m> \033[1;97mNOMOR TARGET: \033[1;92m")
+no = input("\033[90m> \033[1;97mBLACK RANJHA: \033[1;92m")
 
 ua = {
 "Host": "api.myfave.com",
