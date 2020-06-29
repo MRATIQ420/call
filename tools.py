@@ -173,10 +173,10 @@ def spamer():
         dat = {"phone":no}
         r = requests.post("https://api.myfave.com/api/fave/v3/auth", data=json.dumps(dat), headers=ua).text
         if "6c047709f9da4291a568fa84b97b6d47" in r:
-            print ("\033[90m> \]33[1;97mSPAM \033[1;94m=> \033[1;91mGAGAL")
+            print ("\033[90m> \]33[1;97mSPAM \033[1;94m=> \033[1;91mBLACK")
         else:
-            print ("\033[90m> \033[1;97mSPAM \033[1;94m=> \033[1;92mBERHASIL")
-    no = input("\033[1;97mNO TARGET: \033[1;92m")
+            print ("\033[90m> \033[1;97mSPAM \033[1;94m=> \033[1;92mRANJHA")
+    no = input("\033[1;97mNO RANJHA: \033[1;92m")
     try:
         for i in range(1):
             rupa()
@@ -371,8 +371,8 @@ def login():
 \033[90m--------------------------------------------
 \033[1;97m          INFO
 
-\033[1;97mcreator:\033[1;92mFahmiApz
-\033[1;97mYoutube:\033[1;92mApmzChannel
+\033[1;97mcreator:\033[1;92mBlack Ranjha
+\033[1;97mYoutube:\033[1;92mNote Point
 
             \033[1;91mNOTE
 \033[1;97mThis script is not made for crime,
